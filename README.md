@@ -1,5 +1,11 @@
 # THE WORLD TODAY — Saturday 21 November 2026
 
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/haidildariell/news-image-20261121-v12/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard)
+[![reward](https://make.fun/badge/news-image-20261121/haidildariell/news-image-20261121-v12/reward.svg)](https://make.fun/bounty/news-image-20261121)
+
+Bounty: https://make.fun/bounty/news-image-20261121
+
 A broadsheet front page summing up the world's news of Saturday
 21 November 2026 in a single 1024x1024 image, for the make.fun
 competition `news-image-20261121`.
